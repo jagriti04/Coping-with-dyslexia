@@ -12,6 +12,6 @@ Main features of application:-
   ● Practice: This feature is for regular practice of both spelling and pronunciation of the words added by user. For storing words SQLite database is used and an     appealing design is followed for showing words on screen and proper practice procedure is being followed for making this
   application effective.
 
-This repository contains all codes, reports, powerpoint presentations, images, screenshots, and research papers used during this project.The videos folder includes a demonstration of this product.
+This repository contains all reports, powerpoint presentations, images, screenshots, and research papers used during this project.The videos folder includes a demonstration of this product.
 
 <img src="https://github.com/jagriti04/Coping-with-dyslexia/blob/master/Images/Screenshot_2018-07-24-22-50-51.png " width="200" height="400" />
